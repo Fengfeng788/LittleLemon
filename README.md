@@ -1,5 +1,5 @@
 APIS:
-/restaurant/menu
-/restaurant/booking
-/auth/token/login
-/auth/users/
+  /restaurant/menu
+  /restaurant/booking
+  /auth/token/login
+  /auth/users/
